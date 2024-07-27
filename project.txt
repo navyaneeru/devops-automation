@@ -1,0 +1,8 @@
+Git is a version control system that intelligently tracks changes in files. Git is particularly useful when you and a group of people are all making changes to the same files at the same time.
+
+Typically, to do this in a Git-based workflow, you would:
+
+Create a branch off from the main copy of files that you (and your collaborators) are working on.
+Make edits to the files independently and safely on your own personal branch.
+Let Git intelligently merge your specific changes back into the main copy of files, so that your changes don't impact other people's updates.
+Let Git keep track of your and other people's changes, so you all stay working on the most up-to-date version of the project.
