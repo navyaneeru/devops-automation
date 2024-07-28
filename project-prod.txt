@@ -1,0 +1,6 @@
+I want to pull from from an upstream branch and I want to ignore all commits made by me in my local and my remote on git. I only want the changes from the upstream remote.
+
+I am having issues with:
+
+git pull upstream master
+And I do not want to manually merge them. I just want to ignore all my local changes and the above command to work.
